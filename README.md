@@ -1,5 +1,5 @@
 # Miniflux Android Client
-Android applicaiton for Miniflux RSS agregator written with Jetpack Compose! 
+Android applicaiton for [Miniflux RSS agregator](https://github.com/miniflux/v2) written with Jetpack Compose! 
 
 ## Screens
 |All entries screen|Entry screen|
