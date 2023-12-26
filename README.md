@@ -13,6 +13,8 @@ To get a local copy up and running, follow these steps:
 
  - Clone the repo: git clone https://github.com/ArchieSW/MinifluxClient.git
  - Open the project in your preferred IDE.
+ - Change credentials here to yours
+   https://github.com/ArchieSW/MinifluxClient/blob/ff126a5faf48e3da87a809d1c95c19eab10906a5/app/src/main/java/dev/archie/hse_android_lab3/di/AppModule.kt#L24-L26
  - Build and run the project.
 
 ## Features
