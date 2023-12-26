@@ -6,7 +6,7 @@ Android applicaiton for [Miniflux RSS agregator](https://github.com/miniflux/v2)
 |--|--|
 |![image](https://github.com/ArchieSW/MinifluxClient/assets/47922037/70d96b24-0e25-460b-80df-6717ef18538c)|![image](https://github.com/ArchieSW/MinifluxClient/assets/47922037/dcbebc57-deac-4141-891d-068b99c1af0e)|
 |![image](https://github.com/ArchieSW/MinifluxClient/assets/47922037/08f47ea4-4bff-45e1-94f8-ec2e42153ae1)|![image](https://github.com/ArchieSW/MinifluxClient/assets/47922037/1a2f5223-b48a-492a-b1a3-db84bc4d3602)
-|Entry screen|Feeds screen|
+|**Entry screen**|**Feeds screen**|
 
 ## Installation
 To get a local copy up and running, follow these steps:
